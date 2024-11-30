@@ -1,0 +1,12 @@
+---	npm init 
+---     npm install express --save
+---     npm install body-parser
+---     npm install --save-dev nodemon
+---     npm install --save uuid
+---     npm install --save express-validator
+---     npm install --save mongoose
+
+---     npm install mongoose-unique-validator --force
+---     npm install multer --force
+---     npm install bcryptjs --force
+
